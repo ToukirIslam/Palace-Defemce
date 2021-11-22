@@ -328,7 +328,9 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.Purchasing.SecurityStub.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.Purchasing.Stores.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
+"Assets/EnemyMover.cs"
 "Assets/Scripts/CoordinateLabeler.cs"
+"Assets/Scripts/Waypoints.cs"
 -langversion:8.0
 
 /deterministic
