@@ -331,6 +331,7 @@
 "Assets/EnemyMover.cs"
 "Assets/Scripts/CoordinateLabeler.cs"
 "Assets/Scripts/Waypoints.cs"
+"Assets/Tower/TargetLocater.cs"
 -langversion:8.0
 
 /deterministic
